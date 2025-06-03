@@ -1,5 +1,5 @@
 🐾 The Pet-Friendly City Campaign: Making Cities Paw-some! 🏙️
-(Consider replacing this with a more comprehensive screenshot of your deployed app showing multiple sections)
+
 
 Live Demo: https://college-tips-pets.vercel.app/
 
